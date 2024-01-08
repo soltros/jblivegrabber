@@ -7,6 +7,14 @@ Next, run:
 
 ``go mod init jb-livestream-grabber.go``
 
+``go mod init xml_feed_cleaner.go``
+
 ``go build jb-livestream-grabber.go``
 
+``go build xm_feed_cleaner.go``
+
 ``./jb-livestream-grabber``
+
+To sanatize the XML feed post generation, run:
+
+``./xm_feed_cleaner``
