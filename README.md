@@ -15,6 +15,6 @@ Next, run:
 
 ``./jb-livestream-grabber``
 
-To sanatize the XML feed post generation, run:
+To sanatize the XML feed post generation, run inside of the "podcasts" folder:
 
 ``./xm_feed_cleaner``
